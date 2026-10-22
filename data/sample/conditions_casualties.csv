@@ -1,0 +1,58 @@
+Record_ID,Accident_ID,Weather,Visibility,Casualties,Fatalities,Injuries,Casualty_Severity,Cause_of_Accident,Risk_Factor,Data_Source,Is_Synthetic
+RTA-0004-C,RTA-0004,Normal,,2,,,3,Changing lane to the right,,Kaggle:RTA_Dataset.csv,false
+RTA-0005-C,RTA-0005,Normal,,2,,,,Overtaking,,Kaggle:RTA_Dataset.csv,false
+RTA-0006-C,RTA-0006,Normal,,1,,,3,Overloading,,Kaggle:RTA_Dataset.csv,false
+RTA-0007-C,RTA-0007,Normal,,1,,,3,Other,,Kaggle:RTA_Dataset.csv,false
+RTA-0008-C,RTA-0008,Normal,,1,,,,No priority to vehicle,,Kaggle:RTA_Dataset.csv,false
+RTA-0009-C,RTA-0009,Normal,,1,,,3,Changing lane to the right,,Kaggle:RTA_Dataset.csv,false
+RTA-0010-C,RTA-0010,Normal,,1,,,3,Moving Backward,,Kaggle:RTA_Dataset.csv,false
+RTA-0011-C,RTA-0011,Normal,,1,,,,Changing lane to the left,,Kaggle:RTA_Dataset.csv,false
+RTA-0012-C,RTA-0012,Normal,,1,,,3,No priority to pedestrian,,Kaggle:RTA_Dataset.csv,false
+RTA-0013-C,RTA-0013,Normal,,2,,,,No distancing,,Kaggle:RTA_Dataset.csv,false
+RTA-0014-C,RTA-0014,Normal,,2,,,,No priority to vehicle,,Kaggle:RTA_Dataset.csv,false
+RTA-0015-C,RTA-0015,Normal,,2,,,3,No distancing,,Kaggle:RTA_Dataset.csv,false
+RTA-0016-C,RTA-0016,Raining,,3,,,,No distancing,,Kaggle:RTA_Dataset.csv,false
+RTA-0017-C,RTA-0017,Raining,,3,,,,Moving Backward,,Kaggle:RTA_Dataset.csv,false
+RTA-0018-C,RTA-0018,Raining,,3,,,,Changing lane to the right,,Kaggle:RTA_Dataset.csv,false
+RTA-0019-C,RTA-0019,Raining,,3,,,,No priority to pedestrian,,Kaggle:RTA_Dataset.csv,false
+RTA-0020-C,RTA-0020,Normal,,1,,,3,Moving Backward,,Kaggle:RTA_Dataset.csv,false
+RTA-0021-C,RTA-0021,Normal,,1,,,,Getting off the vehicle improperly,,Kaggle:RTA_Dataset.csv,false
+RTA-0022-C,RTA-0022,Normal,,1,,,3,Overtaking,,Kaggle:RTA_Dataset.csv,false
+RTA-0023-C,RTA-0023,Normal,,1,,,3,Overloading,,Kaggle:RTA_Dataset.csv,false
+RTA-0024-C,RTA-0024,Normal,,1,,,3,Changing lane to the right,,Kaggle:RTA_Dataset.csv,false
+RTA-0025-C,RTA-0025,Normal,,3,,,,Improper parking,,Kaggle:RTA_Dataset.csv,false
+RTA-0026-C,RTA-0026,Normal,,3,,,3,Other,,Kaggle:RTA_Dataset.csv,false
+RTA-0027-C,RTA-0027,Normal,,3,,,3,Changing lane to the left,,Kaggle:RTA_Dataset.csv,false
+RTA-0028-C,RTA-0028,Normal,,1,,,,Changing lane to the right,,Kaggle:RTA_Dataset.csv,false
+RTA-0029-C,RTA-0029,Normal,,1,,,3,No priority to pedestrian,,Kaggle:RTA_Dataset.csv,false
+RTA-0030-C,RTA-0030,Normal,,1,,,2,Overspeed,,Kaggle:RTA_Dataset.csv,false
+RTA-0031-C,RTA-0031,Normal,,1,,,,Changing lane to the left,,Kaggle:RTA_Dataset.csv,false
+RTA-0032-C,RTA-0032,Normal,,1,,,3,No priority to vehicle,,Kaggle:RTA_Dataset.csv,false
+RTA-0033-C,RTA-0033,Normal,,1,,,3,Changing lane to the right,,Kaggle:RTA_Dataset.csv,false
+RTA-0034-C,RTA-0034,Normal,,1,,,,No distancing,,Kaggle:RTA_Dataset.csv,false
+RTA-0035-C,RTA-0035,Normal,,1,,,3,No priority to pedestrian,,Kaggle:RTA_Dataset.csv,false
+RTA-0036-C,RTA-0036,Normal,,1,,,3,No distancing,,Kaggle:RTA_Dataset.csv,false
+RTA-0037-C,RTA-0037,Normal,,2,,,,No priority to vehicle,,Kaggle:RTA_Dataset.csv,false
+RTA-0038-C,RTA-0038,Normal,,2,,,2,Other,,Kaggle:RTA_Dataset.csv,false
+RTA-0039-C,RTA-0039,Normal,,2,,,,Driving carelessly,,Kaggle:RTA_Dataset.csv,false
+RTA-0040-C,RTA-0040,Normal,,1,,,3,Changing lane to the left,,Kaggle:RTA_Dataset.csv,false
+RTA-0041-C,RTA-0041,Normal,,1,,,,Driving carelessly,,Kaggle:RTA_Dataset.csv,false
+RTA-0042-C,RTA-0042,Normal,,2,,,3,Changing lane to the left,,Kaggle:RTA_Dataset.csv,false
+RTA-0043-C,RTA-0043,Normal,,2,,,3,No priority to vehicle,,Kaggle:RTA_Dataset.csv,false
+RTA-0044-C,RTA-0044,Normal,,1,,,3,No distancing,,Kaggle:RTA_Dataset.csv,false
+RTA-0045-C,RTA-0045,Normal,,1,,,3,Changing lane to the right,,Kaggle:RTA_Dataset.csv,false
+RTA-0046-C,RTA-0046,Normal,,1,,,,Changing lane to the right,,Kaggle:RTA_Dataset.csv,false
+RTA-0047-C,RTA-0047,Normal,,1,,,,Driving at high speed,,Kaggle:RTA_Dataset.csv,false
+RTA-0048-C,RTA-0048,Normal,,1,,,3,No distancing,,Kaggle:RTA_Dataset.csv,false
+RTA-0049-C,RTA-0049,Normal,,1,,,,Changing lane to the right,,Kaggle:RTA_Dataset.csv,false
+RTA-0050-C,RTA-0050,Normal,,1,,,2,Changing lane to the left,,Kaggle:RTA_Dataset.csv,false
+SYN-A001-C,SYN-A001,Clear,Moderate,2,0,2,Serious,Speeding,Speeding,synthetic_demo_data,true
+SYN-A002-C,SYN-A002,Light rain,Poor,3,0,3,Fatal,Unsafe overtaking,Unsafe overtaking,synthetic_demo_data,true
+SYN-A003-C,SYN-A003,Heavy rain,Good,3,0,3,Minor,Poor road surface,Poor road surface,synthetic_demo_data,true
+SYN-A004-C,SYN-A004,Cloudy,Moderate,1,0,1,Serious,Distracted driving,Distracted driving,synthetic_demo_data,true
+SYN-A005-C,SYN-A005,Clear,Poor,1,0,1,Fatal,Failure to yield,Failure to yield,synthetic_demo_data,true
+SYN-A006-C,SYN-A006,Light rain,Good,1,0,1,Minor,Speeding,Speeding,synthetic_demo_data,true
+SYN-A007-C,SYN-A007,Heavy rain,Moderate,1,1,0,Serious,Unsafe overtaking,Unsafe overtaking,synthetic_demo_data,true
+SYN-A008-C,SYN-A008,Cloudy,Poor,1,0,1,Fatal,Poor road surface,Poor road surface,synthetic_demo_data,true
+SYN-A009-C,SYN-A009,Clear,Good,1,0,1,Minor,Distracted driving,Distracted driving,synthetic_demo_data,true
+SYN-A010-C,SYN-A010,Light rain,Moderate,2,0,2,Serious,Failure to yield,Failure to yield,synthetic_demo_data,true

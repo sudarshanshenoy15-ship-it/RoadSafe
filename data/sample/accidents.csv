@@ -1,0 +1,60 @@
+Accident_ID,Date,Time,Day_of_Week,Latitude,Longitude,Severity,Number_of_Casualties,Number_of_Vehicles,Data_Source,Is_Synthetic
+RTA-0004,,1:06:00,Sunday,,,Slight Injury,2,2,Kaggle:RTA_Dataset.csv,false
+RTA-0005,,1:06:00,Sunday,,,Slight Injury,2,2,Kaggle:RTA_Dataset.csv,false
+RTA-0006,,14:15:00,Friday,,,Slight Injury,1,1,Kaggle:RTA_Dataset.csv,false
+RTA-0007,,17:30:00,Wednesday,,,Slight Injury,1,1,Kaggle:RTA_Dataset.csv,false
+RTA-0008,,17:20:00,Friday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0009,,17:20:00,Friday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0010,,17:20:00,Friday,,,Serious Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0011,,14:40:00,Saturday,,,Serious Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0012,,14:40:00,Saturday,,,Serious Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0013,,17:45:00,Thursday,,,Slight Injury,2,2,Kaggle:RTA_Dataset.csv,false
+RTA-0014,,17:45:00,Thursday,,,Slight Injury,2,2,Kaggle:RTA_Dataset.csv,false
+RTA-0015,,17:45:00,Thursday,,,Serious Injury,2,2,Kaggle:RTA_Dataset.csv,false
+RTA-0016,,22:45:00,Monday,,,Serious Injury,3,2,Kaggle:RTA_Dataset.csv,false
+RTA-0017,,22:45:00,Monday,,,Slight Injury,3,2,Kaggle:RTA_Dataset.csv,false
+RTA-0018,,22:45:00,Monday,,,Serious Injury,3,2,Kaggle:RTA_Dataset.csv,false
+RTA-0019,,22:45:00,Monday,,,Slight Injury,3,2,Kaggle:RTA_Dataset.csv,false
+RTA-0020,,8:20:00,Tuesday,,,Serious Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0021,,8:20:00,Tuesday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0022,,15:10:00,Thursday,,,Serious Injury,1,1,Kaggle:RTA_Dataset.csv,false
+RTA-0023,,12:11:00,Thursday,,,Serious Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0024,,12:11:00,Thursday,,,Serious Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0025,,18:36:00,Wednesday,,,Slight Injury,3,2,Kaggle:RTA_Dataset.csv,false
+RTA-0026,,18:36:00,Wednesday,,,Slight Injury,3,2,Kaggle:RTA_Dataset.csv,false
+RTA-0027,,18:36:00,Wednesday,,,Slight Injury,3,2,Kaggle:RTA_Dataset.csv,false
+RTA-0028,,14:35:00,Friday,,,Slight Injury,1,1,Kaggle:RTA_Dataset.csv,false
+RTA-0029,,12:25:00,Tuesday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0030,,12:25:00,Tuesday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0031,,15:30:00,Monday,,,Slight Injury,1,1,Kaggle:RTA_Dataset.csv,false
+RTA-0032,,18:10:00,Thursday,,,Slight Injury,1,1,Kaggle:RTA_Dataset.csv,false
+RTA-0033,,15:25:00,Thursday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0034,,15:25:00,Thursday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0035,,13:57:00,Saturday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0036,,13:57:00,Saturday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0037,,20:30:00,Friday,,,Slight Injury,2,2,Kaggle:RTA_Dataset.csv,false
+RTA-0038,,20:30:00,Friday,,,Slight Injury,2,2,Kaggle:RTA_Dataset.csv,false
+RTA-0039,,20:30:00,Friday,,,Slight Injury,2,2,Kaggle:RTA_Dataset.csv,false
+RTA-0040,,16:30:00,Sunday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0041,,16:30:00,Sunday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0042,,21:50:00,Sunday,,,Slight Injury,2,2,Kaggle:RTA_Dataset.csv,false
+RTA-0043,,21:50:00,Sunday,,,Slight Injury,2,2,Kaggle:RTA_Dataset.csv,false
+RTA-0044,,9:12:00,Wednesday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0045,,9:12:00,Wednesday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0046,,14:40:00,Friday,,,Serious Injury,1,1,Kaggle:RTA_Dataset.csv,false
+RTA-0047,,10:36:00,Friday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0048,,10:36:00,Friday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0049,,18:19:00,Monday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+RTA-0050,,18:19:00,Monday,,,Slight Injury,1,2,Kaggle:RTA_Dataset.csv,false
+SYN-A001,2026-02-03,19:00,Tuesday,9.143023,76.405179,Serious,2,1,synthetic_demo_data,true
+SYN-A002,2026-03-05,18:45,Thursday,9.110417,76.457038,Fatal,3,3,synthetic_demo_data,true
+SYN-A003,2026-04-07,08:30,Tuesday,9.14399,76.540494,Slight,3,1,synthetic_demo_data,true
+SYN-A004,2026-05-09,14:30,Saturday,9.140215,76.550327,Serious,1,2,synthetic_demo_data,true
+SYN-A005,2026-06-11,19:15,Thursday,9.274672,76.443154,Fatal,1,2,synthetic_demo_data,true
+SYN-A006,2026-07-13,15:45,Monday,9.101604,76.500929,Slight,1,2,synthetic_demo_data,true
+SYN-A007,2026-08-15,15:15,Saturday,9.213545,76.438707,Serious,1,3,synthetic_demo_data,true
+SYN-A008,2026-09-17,19:45,Thursday,9.101513,76.534636,Fatal,1,1,synthetic_demo_data,true
+SYN-A009,2026-01-19,09:15,Monday,9.171951,76.495357,Slight,1,2,synthetic_demo_data,true
+SYN-A010,2026-02-21,18:45,Saturday,9.102354,76.447546,Serious,2,3,synthetic_demo_data,true
+RTA-0001,2007-08-03,,,,,Serious,,,manual_entry,true
+RTA-0000,2007-04-07,,,,,Serious,,,manual_entry,false

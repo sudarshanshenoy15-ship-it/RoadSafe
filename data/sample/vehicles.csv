@@ -1,0 +1,58 @@
+Vehicle_ID,Accident_ID,Vehicle_Type,Vehicle_Count,Speed_Limit,Vehicle_Movement,Data_Source,Is_Synthetic,Record_Note
+RTA-0004-V-SUMMARY,RTA-0004,Public (> 45 seats),2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0005-V-SUMMARY,RTA-0005,Unknown,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0006-V-SUMMARY,RTA-0006,Unknown,1,,U-Turn,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0007-V-SUMMARY,RTA-0007,Automobile,1,,Moving Backward,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0008-V-SUMMARY,RTA-0008,Automobile,2,,U-Turn,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0009-V-SUMMARY,RTA-0009,Lorry (41?100Q),2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0010-V-SUMMARY,RTA-0010,Automobile,2,,U-Turn,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0011-V-SUMMARY,RTA-0011,Public (13?45 seats),2,,Turnover,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0012-V-SUMMARY,RTA-0012,Automobile,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0013-V-SUMMARY,RTA-0013,Public (> 45 seats),2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0014-V-SUMMARY,RTA-0014,Lorry (41?100Q),2,,Waiting to go,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0015-V-SUMMARY,RTA-0015,Automobile,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0016-V-SUMMARY,RTA-0016,Lorry (11?40Q),2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0017-V-SUMMARY,RTA-0017,Public (13?45 seats),2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0018-V-SUMMARY,RTA-0018,Public (13?45 seats),2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0019-V-SUMMARY,RTA-0019,Unknown,2,,Moving Backward,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0020-V-SUMMARY,RTA-0020,Long lorry,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0021-V-SUMMARY,RTA-0021,Lorry (41?100Q),2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0022-V-SUMMARY,RTA-0022,Lorry (11?40Q),1,,Moving Backward,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0023-V-SUMMARY,RTA-0023,Lorry (41?100Q),2,,Getting off,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0024-V-SUMMARY,RTA-0024,Public (12 seats),2,,Reversing,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0025-V-SUMMARY,RTA-0025,Unknown,2,,Turnover,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0026-V-SUMMARY,RTA-0026,Taxi,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0027-V-SUMMARY,RTA-0027,Unknown,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0028-V-SUMMARY,RTA-0028,Automobile,1,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0029-V-SUMMARY,RTA-0029,Unknown,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0030-V-SUMMARY,RTA-0030,Lorry (41?100Q),2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0031-V-SUMMARY,RTA-0031,Automobile,1,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0032-V-SUMMARY,RTA-0032,Automobile,1,,Moving Backward,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0033-V-SUMMARY,RTA-0033,Lorry (41?100Q),2,,Reversing,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0034-V-SUMMARY,RTA-0034,Automobile,2,,Turnover,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0035-V-SUMMARY,RTA-0035,Automobile,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0036-V-SUMMARY,RTA-0036,Automobile,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0037-V-SUMMARY,RTA-0037,Taxi,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0038-V-SUMMARY,RTA-0038,Unknown,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0039-V-SUMMARY,RTA-0039,Unknown,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0040-V-SUMMARY,RTA-0040,Automobile,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0041-V-SUMMARY,RTA-0041,Pick up upto 10Q,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0042-V-SUMMARY,RTA-0042,Unknown,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0043-V-SUMMARY,RTA-0043,Automobile,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0044-V-SUMMARY,RTA-0044,Public (12 seats),2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0045-V-SUMMARY,RTA-0045,Public (13?45 seats),2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0046-V-SUMMARY,RTA-0046,Lorry (11?40Q),1,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0047-V-SUMMARY,RTA-0047,Stationwagen,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0048-V-SUMMARY,RTA-0048,Ridden horse,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0049-V-SUMMARY,RTA-0049,Stationwagen,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+RTA-0050-V-SUMMARY,RTA-0050,Automobile,2,,Going straight,Kaggle:RTA_Dataset.csv,false,Source category and total vehicle count for accident; not one row per individual vehicle
+SYN-A001-V-SUMMARY,SYN-A001,Car,1,30,Going straight,synthetic_demo_data,true,Synthetic summary row; not a real incident
+SYN-A002-V-SUMMARY,SYN-A002,Motorcycle,3,50,Turning right,synthetic_demo_data,true,Synthetic summary row; not a real incident
+SYN-A003-V-SUMMARY,SYN-A003,Bus,1,30,Overtaking,synthetic_demo_data,true,Synthetic summary row; not a real incident
+SYN-A004-V-SUMMARY,SYN-A004,Truck,2,50,Stopping,synthetic_demo_data,true,Synthetic summary row; not a real incident
+SYN-A005-V-SUMMARY,SYN-A005,Auto-rickshaw,2,30,Changing lane,synthetic_demo_data,true,Synthetic summary row; not a real incident
+SYN-A006-V-SUMMARY,SYN-A006,Van,2,50,Going straight,synthetic_demo_data,true,Synthetic summary row; not a real incident
+SYN-A007-V-SUMMARY,SYN-A007,Car,3,30,Turning right,synthetic_demo_data,true,Synthetic summary row; not a real incident
+SYN-A008-V-SUMMARY,SYN-A008,Motorcycle,1,50,Overtaking,synthetic_demo_data,true,Synthetic summary row; not a real incident
+SYN-A009-V-SUMMARY,SYN-A009,Bus,2,30,Stopping,synthetic_demo_data,true,Synthetic summary row; not a real incident
+SYN-A010-V-SUMMARY,SYN-A010,Truck,3,50,Changing lane,synthetic_demo_data,true,Synthetic summary row; not a real incident
